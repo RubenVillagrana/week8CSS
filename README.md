@@ -1,5 +1,5 @@
 Author: Ruben Villagrana
-Answer the following questions using headers and paragraphs (example: <h1>question?</h1> <p>answer</p>):
+Answer the following questions using headers and paragraphs.
 <br>
 What worked well over the last eight weeks and aided your learning process?
 What would you change about the course?
